@@ -69,12 +69,7 @@ Job hive is a job board application built for both employers and employees. Usin
 
 ## Installation
 
-Install my-project with npm
-
-```bash
-  npm install project-2-job-board
-  cd project-2-job-board
-```
+- N/A
 
 ## Tech Stack
 
@@ -99,14 +94,7 @@ Install my-project with npm
 - Express-handlebars: A templating engine for rendering views in Express.js.
 
 ## Usage/Examples
-
-```javascript
-const project2JobBoard = require("project-2-job-board");
-
-function App() {
-  return <Component />;
-}
-```
+https://protected-refuge-18602-b5474f6525e3.herokuapp.com/
 
 ## Authors
 
